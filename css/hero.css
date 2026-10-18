@@ -13,3 +13,6 @@
 .hero-button:focus {
   background: #404bbf;
 }
+.hero-title {
+  text-align: center;
+}

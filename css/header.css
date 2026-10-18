@@ -19,12 +19,16 @@
   color: #404bbf;
 }
 .address {
-  font-style: inherit;
-  color: #434455;
 }
 .address-list {
 }
-.address-item:hover,
-.address-item:focus {
+.address-item {
+}
+.address-link {
+  font-style: inherit;
+  color: #434455;
+}
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
